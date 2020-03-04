@@ -1,0 +1,2 @@
+this is file in static folder which names stat1
+this is main file in static
